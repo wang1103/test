@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.red {
+  color: cyan
+}
+header {
+  color: red
+}
+ul {
+  display: inline-block;
+  width: 40%;
+  font-size: 30px;
+  overflow: hidden;
+}
+.left {
+  color: #79ec0e
+}
+.right {
+  color: #ec0dbc
+}
